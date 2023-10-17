@@ -1,0 +1,90 @@
+.background-he {
+    background-color: #DA0037;
+}
+
+.navbar-toggler {
+    background-color: #EDEDED;
+}
+
+.background-h {
+    background-color: #171717;
+    padding-top: 30px;
+}
+
+#experiencia {
+    padding-top: 30px;
+}
+
+#educacion {
+    padding-top: 30px;
+    background-color: #EDEDED;
+}
+
+#educacion .icon-square{
+    background-color: #DA0037 !important;
+}
+
+#educacion svg{
+    color: #EDEDED !important;
+}
+
+#habilidades {
+    padding-top: 30px;
+}
+
+#programas {
+    padding-top: 30px;
+    background-color: #EDEDED;
+}
+
+#otros {
+    padding-top: 30px;
+}
+
+#contacto {
+    background-color: #DA0037;
+}
+
+#cont1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+
+#biopic {
+    border-radius: 50%;
+}
+
+.dropdown-menu a {
+    color: #444444;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.text-bg-primary {
+    background-color: #DA0037 !important;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  .navbar a {
+    color: #EDEDED;
+  }
+
+  .background-he {
+    position: fixed;
+    width: 100%;
+  }
+
+  #programas p {
+    margin-top: 10px;
+  }
